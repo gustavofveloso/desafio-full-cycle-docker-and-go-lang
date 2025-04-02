@@ -1,0 +1,5 @@
+services:
+  app:
+    build: .
+    image: gustavofveloso/desafio-um-full-cycle-go
+    container_name: desafio-um-full-cycle-go
