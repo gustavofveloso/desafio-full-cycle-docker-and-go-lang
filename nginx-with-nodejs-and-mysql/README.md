@@ -12,7 +12,7 @@ Este projeto implementa um sistema simples onde o Nginx atua como proxy reverso 
 1. **Clone o repositório**:
 
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone
    cd nginx-with-nodejs-and-mysql
    ```
 
